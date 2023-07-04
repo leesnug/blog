@@ -5,8 +5,8 @@ tags: html;css;javascript
 ---
 
 # 一、html
-## 
 备注： Windows 的文件系统使用反斜杠而不是正斜杠，例如：C:\Windows。这在 HTML 中并不重要——即使你在 Windows 系统上进行开发，你也应该在代码中使用正斜杠。
+
 # 二、css
 ## 1.难点
 ### position和margin
@@ -34,7 +34,6 @@ width / left / right / padding / margin 中百分值的基准：包含块的 wid
   | 通配符选择器                   | 0                       |
   | 通过继承获得的样式             | 没有权重                |
 ### 伪类、伪元素
-
 ### 元素定位
 ### 盒子
 
