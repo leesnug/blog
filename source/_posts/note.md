@@ -1,7 +1,7 @@
 ---
 title: 我的学习笔记
 date: 2023-07-04 10:04:03
-tags: html;css;javascript
+tags: html css javascript
 ---
 
 # 一、html
